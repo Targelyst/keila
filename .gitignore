@@ -43,3 +43,5 @@ npm-debug.log
 ops/k8s
 *.env
 .tool-versions
+.nix-mix
+.db
